@@ -1,4 +1,4 @@
-![loregagliard self presentation header](Selfpresentationaustraliacliff.jpg)
+![loregagliard self presentation header](self_presentation_image_github.png)
 
 - 👋 Hi, I’m @loregagliard
 - 👀 I’m interested in ...
