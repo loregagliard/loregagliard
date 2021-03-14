@@ -1,4 +1,4 @@
-## [![loregagliard's header](https://github.com/loregagliard/loregagliard/Selfpresentationaustraliacliff.jpg)]
+## ![loregagliard](https://github.com/loregagliard/loregagliard/blob/master/Selfpresentationaustraliacliff.jpg?raw=true)
 <p align="center">
 </p>
 - 👋 Hi, I’m @loregagliard
