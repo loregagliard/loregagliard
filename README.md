@@ -1,6 +1,5 @@
-## ![loregagliard](https://github.com/loregagliard/loregagliard/blob/master/Selfpresentationaustraliacliff.jpg?raw=true)
-<p align="center">
-</p>
+![loregagliard](https://github.com/loregagliard/loregagliard/blob/master/Selfpresentationaustraliacliff.jpg?raw=true)
+
 - 👋 Hi, I’m @loregagliard
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
