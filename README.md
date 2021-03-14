@@ -1,3 +1,6 @@
+## [![loregagliard's header](https://github.com/loregagliard/loregagliard/Selfpresentationaustraliacliff.jpg)]
+<p align="center">
+</p>
 - 👋 Hi, I’m @loregagliard
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
