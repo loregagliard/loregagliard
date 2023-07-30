@@ -1,4 +1,4 @@
-![loregagliard self presentation header](self_presentation_image_github.png)
+![loregagliard self presentation header](work in progress)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loregagliard/">
@@ -16,21 +16,10 @@
 </p>
 
 <h2 align="center">Hi everyone!</h2>
-My name is Lorenzo Gagliardi, I'm from Milan, Italy.
-I'm a ML engineer, with mathematical statistics background and 3+ years of experience in learning algorithms and artificial intelligence industry.
+Hi all, 
+I'm a Data Scientist and a ML engineer, with mathematical statistics background and 4+ years of experience in predictive algorithms and their industrial applications.
 
-
-I'm passionate about Machine Learning, Artificial Intelligence and technology in general!
-Currently specializing in data science field.
-
-
-Volunteering is basically what keeps my weekends busy, but I also join hackathons from time to time (for fun and glory)!
-
-
-I love the notion of "open source" itself, I am available to collaborate with any interesting project with the right mission.
-
-
-To contact me, the most effective way is by email. You can find the address by clicking on the icon above!
+This repo is meant to be a chaotic and unorganized notes collector, especially for my volunteering activities.
 
 
 <!---
