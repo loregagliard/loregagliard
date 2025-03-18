@@ -1,4 +1,4 @@
-![loregagliard self presentation header](work in progress)
+![alt text](https://github.com/loregagliard/loregagliard/blob/main/greekautomatons.jfif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loregagliard/">
