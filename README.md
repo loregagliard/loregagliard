@@ -1,4 +1,4 @@
-![alt text](https://github.com/loregagliard/loregagliard/blob/main/greekautomatons.jfif)
+![Greek Mythology Automatons](https://github.com/loregagliard/loregagliard/blob/main/greekautomatons.jfif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loregagliard/">
