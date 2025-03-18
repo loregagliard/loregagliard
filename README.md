@@ -17,9 +17,9 @@
 
 <h2 align="center">Hi everyone!</h2>
 Hi all, 
-I'm a Data Scientist and a ML engineer, with mathematical statistics background and 4+ years of experience in predictive algorithms and their industrial applications.
+I'm a Data Scientist and a Machine Learning Engineer, with mathematical statistics background and 5+ years of experience in predictive algorithms and their industrial applications.
 
-This repo is meant to be a chaotic and unorganized notes collector, especially for my volunteering activities.
+This repo is meant to be a chaotic and unorganized notes collector, especially for my volunteering activities, hackathons, and so on.
 
 
 <!---
